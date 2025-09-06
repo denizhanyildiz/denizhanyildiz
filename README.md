@@ -12,8 +12,8 @@ Creative software developer with several years. I developed projects with the he
 * 🧠  I'm learning Spring Cloud
 * 🤝  I'm open to collaborating on Backend Developer
 
-<a href="https://www.github.com/lllagger" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/lllagger?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/denizhanyildiz" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/denizhanyildiz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
