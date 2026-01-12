@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Creative software developer with several years. I developed projects with the help of Spring Boot in the Java programming language. You can see these projects on my repos. I like to develop myself as like as applications very much, I am trying to find a place for myself in the world of the future.
+Creative and passionate Java Developer with several years of experience in designing, developing, and optimizing software solutions. Continuously striving to improve myself and my skills, I am dedicated to creating innovative applications and finding my place in the ever-evolving world of technology. Don’t forget to explore my project section for a closer look at what I’ve accomplished.
 
 * 🌍  I'm based in Turkey, Istanbul
 * ✉️  You can contact me at [denizhan\_yildiz@hotmail,com](mailto:denizhan_yildiz@hotmail,com)
